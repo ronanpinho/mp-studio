@@ -11845,6 +11845,9 @@ a.back-to-top i {
 }
 
 @media (max-width: 767px) {
+    .planos-desk {
+        display:none;
+    }
     .counter-section {
         background-image: url(../img/mobile.jpg);
         background-position: center;
@@ -11854,7 +11857,11 @@ a.back-to-top i {
     }
 }
 
+
 @media (min-width: 768px) {
+    .planos-mobile {
+        display:none;
+    }
     .counter-section {
         background: url(../img/autoridade.jpg) bottom;
         overflow: hidden;
@@ -12227,7 +12234,7 @@ a.back-to-top i {
 
 @media (max-width: 767px) {
     .hero-area-bg {
-        background: url(../img/imagem-topo-mobile.jpg) no-repeat;
+        background: url(../img/TOPO-02-MOBILE.jpg) no-repeat;
         background-size: cover;
         background-position: center;
         height: 86vh;
@@ -12244,7 +12251,7 @@ a.back-to-top i {
 
 @media (min-width: 768px) {
     .hero-area-bg {
-        background: url(../img/imagem-topo.jpg) no-repeat;
+        background: url(../img/TOPO-02.jpg) no-repeat;
         background-size: cover;
         top: 0;
         background-position: center;
@@ -14260,6 +14267,7 @@ p {
     }
 }
 
+
 .btn-one {
     display: table;
     margin:0 auto;
@@ -14320,4 +14328,11 @@ p {
     font-size: 25px!important;
     color: #212121 !important;
     margin-bottom: 0;
+}
+
+#beneficios .services-item {
+    min-height: 394px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
 }

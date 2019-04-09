@@ -129,8 +129,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="26">
-              <caret line="60" column="72" lean-forward="true" selection-start-line="60" selection-start-column="72" selection-end-line="60" selection-end-column="72" />
+            <state relative-caret-position="364">
+              <caret line="199" column="93" lean-forward="true" selection-start-line="199" selection-start-column="93" selection-end-line="199" selection-end-column="93" />
               <folding>
                 <element signature="n#style#0;n#iframe#0;n#noscript#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#img#0;n#noscript#1;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -214,8 +214,18 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/assets/css/style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="231">
-              <caret line="14561" column="25" lean-forward="true" selection-start-line="14561" selection-start-column="25" selection-end-line="14561" selection-end-column="25" />
+            <state>
+              <caret column="230299" selection-start-column="230299" selection-end-column="230299" />
+              <folding>
+                <element signature="e#61091#61291#2" expanded="true" />
+                <element signature="e#61391#61540#2" expanded="true" />
+                <element signature="e#62006#62152#2" expanded="true" />
+                <element signature="e#62416#62582#1" expanded="true" />
+                <element signature="e#72653#72893#2" expanded="true" />
+                <element signature="e#73728#73974#2" expanded="true" />
+                <element signature="e#98229#98419#2" expanded="true" />
+                <element signature="e#98465#98655#2" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -293,9 +303,9 @@
         <option value="$PROJECT_DIR$/assets/js/scripts.js" />
         <option value="$PROJECT_DIR$/sitemap.xml" />
         <option value="$PROJECT_DIR$/vida-melhor.html" />
-        <option value="$PROJECT_DIR$/assets/css/style.css" />
         <option value="$PROJECT_DIR$/obrigado.html" />
         <option value="$PROJECT_DIR$/CNAME" />
+        <option value="$PROJECT_DIR$/assets/css/style.css" />
         <option value="$PROJECT_DIR$/index.html" />
       </list>
     </option>
@@ -453,18 +463,18 @@
       <workItem from="1551615031226" duration="1070000" />
       <workItem from="1554403686544" duration="4119000" />
       <workItem from="1554467382703" duration="38000" />
-      <workItem from="1554811760422" duration="23188000" />
+      <workItem from="1554811760422" duration="23358000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="209030000" />
+    <option name="totallyTimeSpent" value="209200000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1358" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4923077" visible="true" weight="0.14330874" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4923077" visible="true" weight="0.14330874" />
       <window_info id="Structure" order="1" sideWeight="0.50769234" side_tool="true" weight="0.2061012" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -476,7 +486,7 @@
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" weight="0.32998884" />
       <window_info anchor="bottom" id="Version Control" order="8" />
-      <window_info anchor="bottom" id="Terminal" order="9" visible="true" weight="0.23522854" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="9" visible="true" weight="0.23522854" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="bottom" id="RNConsole" order="11" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -719,13 +729,6 @@
     <entry file="file://$PROJECT_DIR$/assets/img/dores.png">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/assets/css/style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="231">
-          <caret line="14561" column="25" lean-forward="true" selection-start-line="14561" selection-start-column="25" selection-end-line="14561" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/obrigado.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="466">
@@ -746,10 +749,27 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/assets/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="230299" selection-start-column="230299" selection-end-column="230299" />
+          <folding>
+            <element signature="e#61091#61291#2" expanded="true" />
+            <element signature="e#61391#61540#2" expanded="true" />
+            <element signature="e#62006#62152#2" expanded="true" />
+            <element signature="e#62416#62582#1" expanded="true" />
+            <element signature="e#72653#72893#2" expanded="true" />
+            <element signature="e#73728#73974#2" expanded="true" />
+            <element signature="e#98229#98419#2" expanded="true" />
+            <element signature="e#98465#98655#2" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="26">
-          <caret line="60" column="72" lean-forward="true" selection-start-line="60" selection-start-column="72" selection-end-line="60" selection-end-column="72" />
+        <state relative-caret-position="364">
+          <caret line="199" column="93" lean-forward="true" selection-start-line="199" selection-start-column="93" selection-end-line="199" selection-end-column="93" />
           <folding>
             <element signature="n#style#0;n#iframe#0;n#noscript#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#img#0;n#noscript#1;n#body#0;n#html#0;n#!!top" expanded="true" />

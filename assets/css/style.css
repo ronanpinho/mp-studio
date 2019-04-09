@@ -1,10 +1,6 @@
 @charset "UTF-8";
 @import url(https://fonts.googleapis.com/css?family=Shadows+Into+Light|Source+Sans+Pro:400,700);
 
-@font-face {
-    font-family: butler;
-    src: url(../fonts/butler-bold.otf);
-}
 
 @keyframes bounce {
     from,
@@ -157,7 +153,6 @@ body {
 h1, h2, h3, h4, h5, h6 {
     margin-top: 0;
     color: #232323 !important;
-    font-family: butler!important;
 }
 
 abbr[data-original-title], abbr[title] {
@@ -12309,7 +12304,7 @@ a.back-to-top i {
         letter-spacing: -5px;
         text-transform: uppercase;
         font-weight: 700;
-        line-height: 68px;
+        line-height: 77px;
     }
 }
 
@@ -13875,7 +13870,7 @@ a:not([href]):not([tabindex]), a:not([href]):not([tabindex]):focus, a:not([href]
         font-weight: 400;
         line-height: 30px;
         margin-bottom: 25px;
-        margin-top: 54px;
+        margin-top: 25px;
     }
 }
 .lgo-center {
@@ -14143,4 +14138,186 @@ table caption {
         margin: 0 auto;
     }
 
+}
+
+#causas .services-content h3 {
+    margin-top: 10px;
+    font-size: 18px;
+    line-height: 20px;
+    min-height: 41px;
+}
+#causas .services-content {
+
+}
+#causas .services-content p {
+    min-height: 120px;
+}
+
+#causas .icon img {
+    width: 60px;
+    height: 60px;
+}
+
+.causas {
+    background:#a05a8f
+}
+
+.causas-item {
+    background: transparent;
+    text-align: center;
+    transition: all .3s ease-in-out 0;
+    -moz-transition: all .3s ease-in-out 0;
+    -webkit-transition: all .3s ease-in-out 0;
+    -o-transition: all .3s ease-in-out 0;
+    padding: 25px 0 25px 0;
+}
+
+.causas-item .causas-content {
+    text-align: justify;
+}
+.causas-item .causas-content h3 {
+    margin-top: 4px;
+    margin-bottom: 10px;
+    font-size: 28px;
+    text-align: left;
+
+}
+
+@media (max-width: 767px) {
+    .causas-item .causas-content h3 {
+        margin-top: 4px;
+        margin-bottom: 10px;
+        font-size: 25px;
+        text-align: center;
+
+    }
+}
+.causas-item .causas-content h3 a {
+    font-size: 15px;
+    text-transform: capitalize;
+    color: #666
+}
+
+.causas-item .causas-content h3 a:hover {
+    color: #f5f5f5
+}
+
+.causas-item .causas-content p {
+    line-height: 22px
+}
+@media (min-width: 768px) {
+    .causas {
+        padding: 60px 30px 0px 30px;
+    }
+}
+@media (max-width: 768px) {
+    .causas {
+        padding: 60px 30px 60px 30px;
+    }
+}
+
+#beneficios .services-content h3 {
+    margin-top: 10px;
+    font-size: 18px;
+    line-height: 20px;
+    min-height: 41px;
+}
+
+#beneficios .services-content {
+
+}
+
+#beneficios .services-content p {
+    min-height: 140px;
+    text-align: justify;
+}
+
+#beneficios .icon img {
+    width: 60px;
+    height: 60px;
+}
+
+p {
+    font-weight: 400;
+    font-size: 16px!important;
+    color:#212121;
+}
+
+@media (min-width: 768px){
+.title-whats-lan {
+    max-width: 37%;
+    display: table;
+    margin: 0 auto;
+    margin-bottom: 20px;
+}
+}
+@media (max-width: 767px){
+    .title-whats-lan {
+        max-width: 90%;
+        display: table;
+        margin: 0 auto;
+        margin-bottom: 20px;
+    }
+}
+
+.btn-one {
+    display: table;
+    margin:0 auto;
+    z-index: 555;
+}
+
+#depoimentos {
+    padding-right: 30px;
+    padding-left: 30px;
+    position: relative;
+}
+#depoimentos img {
+    width: 85px;
+    display: table;
+    margin: 0 auto;
+    margin-bottom: 10px;
+}
+#depoimentos div {
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
+#depoimentos h6 {
+    font-size: 1.5em;
+    text-align: center;
+
+}
+
+#depoimentos h2 {
+    text-align: center;
+    margin-bottom: 30px;
+}
+
+#depoimentos p {
+    text-align: justify;
+}
+
+#depoimentos p:before {
+    content: '';
+    background-image: url("../img/quote.png");
+    width: 20px;
+    height: 20px;
+    background-size: contain;
+    position: absolute;
+    top: -5px;
+    left: -4px;
+}
+
+#depoimento .profile-wrapper .d-nome {
+    text-align: left;
+    font-size: 25px!important;
+    color: #212121 !important;
+    margin-bottom: 0;
+}
+
+#contato .profile-wrapper .d-nome {
+    text-align: left;
+    font-size: 25px!important;
+    color: #212121 !important;
+    margin-bottom: 0;
 }

@@ -2,8 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3e19a195-7f09-4e94-a17c-077b27c7639c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/assets/img/TOPO 01 MOBILE.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/TOPO 01_.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.name" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/marcele-pilates.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/marcele-pilates.iml" afterDir="false" />
@@ -45,6 +43,8 @@
       <change beforePath="$PROJECT_DIR$/assets/img/Favicon.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/Favicon.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/assets/img/HORAS AULAS.svg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/HORAS AULAS.svg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/assets/img/PERSONAL.svg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/PERSONAL.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/TOPO 01 MOBILE.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/TOPO 01 MOBILE.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/TOPO 01_.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/TOPO 01_.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/assets/img/TOPO-02-MOBILE.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/TOPO-02-MOBILE.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/assets/img/TOPO-02.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/TOPO-02.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/assets/img/Tabela .png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/Tabela .png" afterDir="false" />
@@ -112,6 +112,7 @@
       <change beforePath="$PROJECT_DIR$/assets/video/video-mobile.mp4" beforeDir="false" afterPath="$PROJECT_DIR$/assets/video/video-mobile.mp4" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/assets/video/video.mp4" beforeDir="false" afterPath="$PROJECT_DIR$/assets/video/video.mp4" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/obrigado.html" beforeDir="false" afterPath="$PROJECT_DIR$/obrigado.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/sitemap.xml" beforeDir="false" afterPath="$PROJECT_DIR$/sitemap.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -125,7 +126,7 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="317">
@@ -201,11 +202,11 @@
           <provider selected="true" editor-type-id="images" />
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/assets/css/style.css">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="231">
-              <caret line="14649" column="34" lean-forward="true" selection-start-line="14649" selection-start-column="34" selection-end-line="14649" selection-end-column="34" />
+              <caret line="14566" column="34" lean-forward="true" selection-start-line="14566" selection-start-column="34" selection-end-line="14566" selection-end-column="34" />
             </state>
           </provider>
         </entry>
@@ -284,9 +285,9 @@
         <option value="$PROJECT_DIR$/assets/js/scripts.js" />
         <option value="$PROJECT_DIR$/sitemap.xml" />
         <option value="$PROJECT_DIR$/vida-melhor.html" />
-        <option value="$PROJECT_DIR$/assets/css/style.css" />
         <option value="$PROJECT_DIR$/obrigado.html" />
         <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/assets/css/style.css" />
       </list>
     </option>
   </component>
@@ -437,12 +438,12 @@
       <workItem from="1551615031226" duration="1070000" />
       <workItem from="1554403686544" duration="4119000" />
       <workItem from="1554467382703" duration="38000" />
-      <workItem from="1554811760422" duration="21016000" />
+      <workItem from="1554811760422" duration="21280000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="206858000" />
+    <option name="totallyTimeSpent" value="207122000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1358" y="-8" width="1936" height="1056" extended-state="6" />
@@ -695,9 +696,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/assets/img/dores.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/assets/img/mobile.jpg">
       <provider selected="true" editor-type-id="images" />
     </entry>
@@ -709,13 +707,6 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/assets/img/Facebook-og.jpg">
       <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/assets/css/style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="231">
-          <caret line="14649" column="34" lean-forward="true" selection-start-line="14649" selection-start-column="34" selection-end-line="14649" selection-end-column="34" />
-        </state>
-      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/obrigado.html">
       <provider selected="true" editor-type-id="text-editor">
@@ -761,6 +752,16 @@
             <element signature="n#src#0;n#img#0;n#a#1;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#img#0;n#a#1;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/img/dores.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="231">
+          <caret line="14566" column="34" lean-forward="true" selection-start-line="14566" selection-start-column="34" selection-end-line="14566" selection-end-column="34" />
         </state>
       </provider>
     </entry>

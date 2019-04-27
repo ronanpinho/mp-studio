@@ -2,118 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3e19a195-7f09-4e94-a17c-077b27c7639c" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.name" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/marcele-pilates.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/marcele-pilates.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CNAME" beforeDir="false" afterPath="$PROJECT_DIR$/CNAME" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/css/about.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/about.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/css/animate.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/animate.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/css/bootstrap.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/bootstrap.min.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/css/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/main.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/css/nivo-lightbox.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/nivo-lightbox.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/css/responsive.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/responsive.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/css/slicknav.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/slicknav.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/fonts/FontAwesome.otf" beforeDir="false" afterPath="$PROJECT_DIR$/assets/fonts/FontAwesome.otf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/fonts/butler-bold.otf" beforeDir="false" afterPath="$PROJECT_DIR$/assets/fonts/butler-bold.otf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/fonts/font-awesome.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/fonts/font-awesome.min.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/fonts/fontawesome-webfont.eot" beforeDir="false" afterPath="$PROJECT_DIR$/assets/fonts/fontawesome-webfont.eot" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/fonts/fontawesome-webfont.svg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/fonts/fontawesome-webfont.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/fonts/fontawesome-webfont.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/assets/fonts/fontawesome-webfont.ttf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/fonts/fontawesome-webfont.woff" beforeDir="false" afterPath="$PROJECT_DIR$/assets/fonts/fontawesome-webfont.woff" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/fonts/fontawesome-webfont.woff2" beforeDir="false" afterPath="$PROJECT_DIR$/assets/fonts/fontawesome-webfont.woff2" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/fonts/glyphicons-halflings-regular.eot" beforeDir="false" afterPath="$PROJECT_DIR$/assets/fonts/glyphicons-halflings-regular.eot" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/fonts/glyphicons-halflings-regular.svg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/fonts/glyphicons-halflings-regular.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/fonts/glyphicons-halflings-regular.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/assets/fonts/glyphicons-halflings-regular.ttf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/fonts/glyphicons-halflings-regular.woff" beforeDir="false" afterPath="$PROJECT_DIR$/assets/fonts/glyphicons-halflings-regular.woff" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/fonts/glyphicons-halflings-regular.woff2" beforeDir="false" afterPath="$PROJECT_DIR$/assets/fonts/glyphicons-halflings-regular.woff2" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/fonts/line-icons/Simple-Line-Icons.eot" beforeDir="false" afterPath="$PROJECT_DIR$/assets/fonts/line-icons/Simple-Line-Icons.eot" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/fonts/line-icons/Simple-Line-Icons.svg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/fonts/line-icons/Simple-Line-Icons.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/fonts/line-icons/Simple-Line-Icons.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/assets/fonts/line-icons/Simple-Line-Icons.ttf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/fonts/line-icons/Simple-Line-Icons.woff" beforeDir="false" afterPath="$PROJECT_DIR$/assets/fonts/line-icons/Simple-Line-Icons.woff" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/fonts/line-icons/Simple-Line-Icons.woff2" beforeDir="false" afterPath="$PROJECT_DIR$/assets/fonts/line-icons/Simple-Line-Icons.woff2" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/fonts/simple-line-icons.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/fonts/simple-line-icons.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/Depoimento.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/Depoimento.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/EXPERIÊNCIA.svg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/EXPERIÊNCIA.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/Facebook-og.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/Facebook-og.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/Favicon.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/Favicon.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/HORAS AULAS.svg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/HORAS AULAS.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/PERSONAL.svg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/PERSONAL.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/TOPO 01 MOBILE.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/TOPO 01 MOBILE.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/TOPO 01_.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/TOPO 01_.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/TOPO-02-MOBILE.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/TOPO-02-MOBILE.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/TOPO-02.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/TOPO-02.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/Tabela .png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/Tabela .png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/Tabela MOBILE .png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/Tabela MOBILE .png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/VIDAS TRANSFORMADAS.svg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/VIDAS TRANSFORMADAS.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/arrow.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/arrow.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/autoridade.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/autoridade.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/b01.svg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/b01.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/b02.svg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/b02.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/b03.svg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/b03.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/b04.svg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/b04.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/dores.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/dores.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/foto perfil.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/foto perfil.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/girl.svg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/girl.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/icones/entrega.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/icones/entrega.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/icones/ex.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/icones/ex.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/icones/i01.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/icones/i01.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/icones/i02.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/icones/i02.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/icones/i03.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/icones/i03.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/icones/numero-um.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/icones/numero-um.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/icones/referencia-qualidade.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/icones/referencia-qualidade.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/imagem-inicio.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/imagem-inicio.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/imagem-topo-mobile.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/imagem-topo-mobile.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/imagem-topo.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/imagem-topo.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/kids-couple.svg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/kids-couple.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/lgo-m.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/lgo-m.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/lgo-w.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/lgo-w.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/m1.svg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/m1.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/m2.svg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/m2.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/m3.svg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/m3.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/m4.svg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/m4.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/mobile.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/mobile.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/mulher-triste.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/mulher-triste.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/old-man.svg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/old-man.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/planos.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/planos.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/pregnant-woman.svg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/pregnant-woman.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/quote.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/quote.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/simbol.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/simbol.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/soccer-player.svg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/soccer-player.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/standing-up-man-.svg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/standing-up-man-.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/stars.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/stars.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/Ícone 01.svg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/Ícone 01.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/Ícone 02.svg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/Ícone 02.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/Ícone 03.svg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/Ícone 03.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/Ícone 04.svg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/Ícone 04.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/js/bootstrap.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/js/bootstrap.min.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/js/classie.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/js/classie.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/js/jquery-3.2.1.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/js/jquery-3.2.1.min.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/js/jquery.counterup.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/js/jquery.counterup.min.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/js/jquery.easing.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/js/jquery.easing.min.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/js/jquery.mixitup.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/js/jquery.mixitup.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/js/jquery.nav.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/js/jquery.nav.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/js/jquery.slicknav.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/js/jquery.slicknav.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/js/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/js/main.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/js/menu.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/js/menu.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/js/modernizr.custom.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/js/modernizr.custom.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/js/nivo-lightbox.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/js/nivo-lightbox.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/js/nivo-lightbox.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/js/nivo-lightbox.min.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/js/popper.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/js/popper.min.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/js/scripts.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/js/scripts.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/js/scrolling-nav.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/js/scrolling-nav.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/js/video.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/js/video.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/js/waypoints.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/js/waypoints.min.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/js/wow.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/js/wow.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/video/video-mobile.mp4" beforeDir="false" afterPath="$PROJECT_DIR$/assets/video/video-mobile.mp4" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/video/video.mp4" beforeDir="false" afterPath="$PROJECT_DIR$/assets/video/video.mp4" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/obrigado.html" beforeDir="false" afterPath="$PROJECT_DIR$/obrigado.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sitemap.xml" beforeDir="false" afterPath="$PROJECT_DIR$/sitemap.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -126,11 +17,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="286">
-              <caret line="61" column="81" lean-forward="true" selection-start-line="61" selection-start-column="81" selection-end-line="61" selection-end-column="81" />
+            <state relative-caret-position="214">
+              <caret line="497" column="68" selection-start-line="497" selection-start-column="68" selection-end-line="497" selection-end-column="68" />
               <folding>
                 <element signature="n#style#0;n#iframe#0;n#noscript#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#img#0;n#noscript#1;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -138,9 +29,6 @@
                 <element signature="n#style#0;n#img#1;n#section#0;n#div#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#img#0;n#section#1;n#div#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#img#1;n#section#1;n#div#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#section#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#p#0;n#section#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#0;n#section#1;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#img#0;n#div#1;n#div#0;n#div#1;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#h2#0;n#section#1;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#section#1;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -153,7 +41,6 @@
                 <element signature="n#style#0;n#img#0;n#div#0;n#div#0;n#div#0;n#section#5;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#img#0;n#div#1;n#div#0;n#div#0;n#section#5;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#img#0;n#div#2;n#div#0;n#div#0;n#section#5;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#input#3;n#div#0;n#form#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#section#6;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#a#1;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#src#0;n#img#0;n#a#1;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#img#0;n#a#1;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -165,66 +52,14 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/obrigado.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="466">
-              <caret line="250" column="21" lean-forward="true" selection-start-line="250" selection-start-column="21" selection-end-line="250" selection-end-column="21" />
+            <state relative-caret-position="280">
+              <caret line="259" column="188" selection-start-line="259" selection-start-column="188" selection-end-line="259" selection-end-column="188" />
               <folding>
                 <element signature="n#style#0;n#iframe#0;n#noscript#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#img#0;n#noscript#1;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#div#0;n#section#0;n#div#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#a#0;n#p#0;n#div#0;n#section#0;n#div#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#footer#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/CNAME">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="26">
-              <caret line="1" column="17" selection-start-line="1" selection-end-line="1" selection-end-column="23" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/assets/img/Ícone 01.svg">
-          <provider selected="true" editor-type-id="images" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/assets/img/Facebook-og.jpg">
-          <provider selected="true" editor-type-id="images" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/assets/img/EXPERIÊNCIA.svg">
-          <provider selected="true" editor-type-id="images" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/assets/img/mobile.jpg">
-          <provider selected="true" editor-type-id="images" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/assets/img/dores.png">
-          <provider selected="true" editor-type-id="images" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/assets/css/style.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="230299" selection-start-column="230299" selection-end-column="230299" />
-              <folding>
-                <element signature="e#61091#61291#2" expanded="true" />
-                <element signature="e#61391#61540#2" expanded="true" />
-                <element signature="e#62006#62152#2" expanded="true" />
-                <element signature="e#62416#62582#1" expanded="true" />
-                <element signature="e#72653#72893#2" expanded="true" />
-                <element signature="e#73728#73974#2" expanded="true" />
-                <element signature="e#98229#98419#2" expanded="true" />
-                <element signature="e#98465#98655#2" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -303,18 +138,18 @@
         <option value="$PROJECT_DIR$/assets/js/scripts.js" />
         <option value="$PROJECT_DIR$/sitemap.xml" />
         <option value="$PROJECT_DIR$/vida-melhor.html" />
-        <option value="$PROJECT_DIR$/obrigado.html" />
         <option value="$PROJECT_DIR$/CNAME" />
         <option value="$PROJECT_DIR$/assets/css/style.css" />
+        <option value="$PROJECT_DIR$/obrigado.html" />
         <option value="$PROJECT_DIR$/index.html" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="1358" />
-    <option name="y" value="-8" />
-    <option name="width" value="1936" />
-    <option name="height" value="1056" />
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="170" />
+    <option name="y" value="91" />
+    <option name="width" value="1026" />
+    <option name="height" value="546" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
@@ -353,9 +188,10 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="ignore_missing_gitignore" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../grafica-lider" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
@@ -384,7 +220,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JavaScript Debug.obrigado.html">
+  <component name="RunManager" selected="JavaScript Debug.index.html">
     <configuration name="index.html (1)" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/mister-galeto/index.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
@@ -402,8 +238,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JavaScript Debug.obrigado.html" />
         <item itemvalue="JavaScript Debug.index.html" />
+        <item itemvalue="JavaScript Debug.obrigado.html" />
         <item itemvalue="JavaScript Debug.vida-melhor.html" />
         <item itemvalue="JavaScript Debug.index.html (2)" />
         <item itemvalue="JavaScript Debug.index.html (1)" />
@@ -464,16 +300,19 @@
       <workItem from="1554403686544" duration="4119000" />
       <workItem from="1554467382703" duration="38000" />
       <workItem from="1554811760422" duration="23805000" />
+      <workItem from="1555245571810" duration="38000" />
+      <workItem from="1556331586246" duration="511000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="209647000" />
+    <option name="totallyTimeSpent" value="210196000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1358" y="-8" width="1936" height="1056" extended-state="6" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4923077" visible="true" weight="0.14330874" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4923077" visible="true" weight="0.14285715" />
       <window_info id="Structure" order="1" sideWeight="0.50769234" side_tool="true" weight="0.2061012" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -485,7 +324,7 @@
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" weight="0.32998884" />
       <window_info anchor="bottom" id="Version Control" order="8" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="9" visible="true" weight="0.23522854" />
+      <window_info anchor="bottom" id="Terminal" order="9" visible="true" weight="0.23418804" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="bottom" id="RNConsole" order="11" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -713,37 +552,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/assets/img/mobile.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/assets/img/Ícone 01.svg">
       <provider selected="true" editor-type-id="images" />
     </entry>
     <entry file="file://$PROJECT_DIR$/assets/img/EXPERIÊNCIA.svg">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/assets/img/Facebook-og.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/assets/img/dores.png">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/obrigado.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="466">
-          <caret line="250" column="21" lean-forward="true" selection-start-line="250" selection-start-column="21" selection-end-line="250" selection-end-column="21" />
-          <folding>
-            <element signature="n#style#0;n#iframe#0;n#noscript#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#img#0;n#noscript#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#section#0;n#div#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#footer#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/assets/css/style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
+        <state relative-caret-position="5980">
           <caret column="230299" selection-start-column="230299" selection-end-column="230299" />
           <folding>
             <element signature="e#61091#61291#2" expanded="true" />
@@ -758,10 +578,37 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/CNAME">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="26">
+          <caret line="1" column="12" lean-forward="true" selection-start-line="1" selection-start-column="12" selection-end-line="1" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/img/Facebook-og.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/img/mobile.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/obrigado.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="280">
+          <caret line="259" column="188" selection-start-line="259" selection-start-column="188" selection-end-line="259" selection-end-column="188" />
+          <folding>
+            <element signature="n#style#0;n#iframe#0;n#noscript#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#noscript#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#section#0;n#div#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#p#0;n#div#0;n#section#0;n#div#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#footer#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="286">
-          <caret line="61" column="81" lean-forward="true" selection-start-line="61" selection-start-column="81" selection-end-line="61" selection-end-column="81" />
+        <state relative-caret-position="214">
+          <caret line="497" column="68" selection-start-line="497" selection-start-column="68" selection-end-line="497" selection-end-column="68" />
           <folding>
             <element signature="n#style#0;n#iframe#0;n#noscript#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#img#0;n#noscript#1;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -769,9 +616,6 @@
             <element signature="n#style#0;n#img#1;n#section#0;n#div#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#img#0;n#section#1;n#div#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#img#1;n#section#1;n#div#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#section#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#p#0;n#section#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#section#1;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#img#0;n#div#1;n#div#0;n#div#1;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#h2#0;n#section#1;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#section#1;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -784,18 +628,10 @@
             <element signature="n#style#0;n#img#0;n#div#0;n#div#0;n#div#0;n#section#5;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#img#0;n#div#1;n#div#0;n#div#0;n#section#5;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#img#0;n#div#2;n#div#0;n#div#0;n#section#5;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#input#3;n#div#0;n#form#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#section#6;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#a#1;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#src#0;n#img#0;n#a#1;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#img#0;n#a#1;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/CNAME">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="26">
-          <caret line="1" column="17" selection-start-line="1" selection-end-line="1" selection-end-column="23" />
         </state>
       </provider>
     </entry>
